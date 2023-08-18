@@ -1,0 +1,2 @@
+start MagicWandSchemaCreation.sql
+start MagicWandDatabaseCreation.sql
